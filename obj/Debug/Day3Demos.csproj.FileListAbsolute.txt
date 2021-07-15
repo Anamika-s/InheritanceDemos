@@ -1,0 +1,7 @@
+E:\UST\Day3Demos\Day3Demos\bin\Debug\Day3Demos.exe.config
+E:\UST\Day3Demos\Day3Demos\bin\Debug\Day3Demos.exe
+E:\UST\Day3Demos\Day3Demos\bin\Debug\Day3Demos.pdb
+E:\UST\Day3Demos\Day3Demos\obj\Debug\Day3Demos.csprojAssemblyReference.cache
+E:\UST\Day3Demos\Day3Demos\obj\Debug\Day3Demos.csproj.CoreCompileInputs.cache
+E:\UST\Day3Demos\Day3Demos\obj\Debug\Day3Demos.exe
+E:\UST\Day3Demos\Day3Demos\obj\Debug\Day3Demos.pdb
